@@ -85,6 +85,8 @@ The analysis explored:
 The Power BI report consists of **3 pages**:
 
 ### 1️⃣ Dashboard
+ ## 📊 Dashboard Preview
+![Heart Disease Analysis Dashboard](Dashboard/dashboard_screenshot.png)
 
 An interactive dashboard containing:
 
